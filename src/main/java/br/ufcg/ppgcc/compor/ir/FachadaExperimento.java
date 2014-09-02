@@ -1,12 +1,12 @@
 package br.ufcg.ppgcc.compor.ir;
 
-import java.util.List;
+import java.util.*;
 
-public interface FachadaExperimento {
-
+public interface FachadaExperimento{
 	void criarNovoTitular(Titular titular);
-
+	
 	List<Titular> listarTitulares();
-
-
 }
+
+
+
