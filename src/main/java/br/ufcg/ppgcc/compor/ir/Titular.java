@@ -85,4 +85,9 @@ public class Titular extends Pessoa {
 		return true;
 	}
 
+	public void add(Object novoTitular) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
